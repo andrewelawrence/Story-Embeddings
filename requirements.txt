@@ -1,0 +1,8 @@
+huggingface-cli
+huggingface-hub
+pandas
+numpy
+rootutils
+parquet-tools
+polars
+pathlib
