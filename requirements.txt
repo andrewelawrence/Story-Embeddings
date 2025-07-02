@@ -6,3 +6,4 @@ rootutils
 parquet-tools
 polars
 pathlib
+datasets
